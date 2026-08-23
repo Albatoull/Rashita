@@ -2,7 +2,7 @@
 ### Medication Management System
 
 <p align="center">
-  <img src="assets/rashita-cover.png" width="800">
+  <img src="assets/rashita-cover.png" width="600">
 </p>
 
 ## Overview
