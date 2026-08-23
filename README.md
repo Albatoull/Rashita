@@ -85,7 +85,7 @@ The Use Case Diagram represents the major interactions between the patient and t
 It covers account management, medication reminders, drug interaction checking, medicine ordering, order management, and nearby pharmacy location.
 
 <p align="center">
-  <img src="assets/use-case-diagram.png" width="650">
+  <img src="assets/use-case-diagram.png" width="500">
 </p>
 
 ---
@@ -104,7 +104,7 @@ The main services include:
 - Order Medicine
 
 <p align="center">
-  <img src="assets/architecture.png" width="700">
+  <img src="assets/architecture.png" width="550">
 </p>
 
 ---
@@ -120,7 +120,7 @@ The Class Diagram represents the major system entities, their attributes, operat
 It includes components related to users, accounts, medicines, reminders, prescriptions, orders, pharmacies, pharmacy location, GPS, payment methods, and medicine interactions.
 
 <p align="center">
-  <img src="assets/class-diagram.png" width="750">
+  <img src="assets/class-diagram.png" width="600">
 </p>
 
 ### Sequence Diagram
@@ -130,7 +130,7 @@ Sequence diagrams were developed to represent how different components interact 
 The example below represents the process of finding nearby pharmacies and shows the interaction between the **User**, **System**, and **Database**.
 
 <p align="center">
-  <img src="assets/sequence-diagram.png" width="650">
+  <img src="assets/sequence-diagram.png" width="500">
 </p>
 
 Additional interaction models were developed during the project for other system functions.
